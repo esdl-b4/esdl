@@ -2,5 +2,6 @@
 void main()
 {
 cout<<"Hello........";
+cout<<cummins college;
 return 0;
 }
